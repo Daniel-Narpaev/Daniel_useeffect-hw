@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Daniel_useeffect-hw/static/css/main.a364947f.css",
+    "main.js": "/Daniel_useeffect-hw/static/js/main.185550bb.js",
+    "index.html": "/Daniel_useeffect-hw/index.html",
+    "main.a364947f.css.map": "/Daniel_useeffect-hw/static/css/main.a364947f.css.map",
+    "main.185550bb.js.map": "/Daniel_useeffect-hw/static/js/main.185550bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a364947f.css",
+    "static/js/main.185550bb.js"
+  ]
+}
